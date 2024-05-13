@@ -69,11 +69,3 @@ Contributions to this project are welcome! Here's how you can contribute:
   ```
   
 - **Submit a pull request**: Go to your fork on GitHub, select your branch, and click the 'Pull request' button. Fill out the form and submit.
-
-
-
-### Notes
-- Replace `yourusername` with your actual GitHub username.
-- Replace `'your_api_key_here'` with an appropriate placeholder or instruction for the user to replace this with their actual API key.
-- Adjust the repository URL and any specific details to fit the actual setup of your project on GitHub.
-- You may want to include an actual LICENSE file in your repository if you mention it in the README. The MIT License is commonly used for open source projects.
